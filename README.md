@@ -14,22 +14,22 @@ Believe it or not, this was my second time using Fusion 360 and KiCad! I watched
 ### Specifications
 
 BOM: 
-1x Seeed Studio XIAO ESP32-C3 development board
-1x Wavwshare HMMD 24 GHz mmWave human presence sensor
-1x Passive piezo buzzer, 3 V, Ø12 mm
-1x NPN transistor 2N2222, TO-92 package
-1x Resistor 10 kΩ, ¼ W, through-hole
-1x Resistor 1 kΩ, ¼ W, through-hole
-1x Resistor 100–200 Ω, ¼ W, through-hole
-1x Resistor 22–33 Ω, through-hole
-1x Signal diode 1N4148
-2x 0 Ω SMD resistor
-1x 5-pin connector / header for HMMD sensor - Male
-1x 5-pin connector / header for HMMD sensor - Female
-1x LAN / multi-core cable for sensor connection
-4x M3x16mm Screws
-4x M3x4mm Heatset Inserts
-1x PCB 
+- 1x Seeed Studio XIAO ESP32-C3 development board
+- 1x Wavwshare HMMD 24 GHz mmWave human presence sensor
+- 1x Passive piezo buzzer, 3 V, Ø12 mm
+- 1x NPN transistor 2N2222, TO-92 package
+- 1x Resistor 10 kΩ, ¼ W, through-hole
+- 1x Resistor 1 kΩ, ¼ W, through-hole
+- 1x Resistor 100–200 Ω, ¼ W, through-hole
+- 1x Resistor 22–33 Ω, through-hole
+- 1x Signal diode 1N4148
+- 2x 0 Ω SMD resistor
+- 1x 5-pin connector / header for HMMD sensor - Male
+- 1x 5-pin connector / header for HMMD sensor - Female
+- 1x LAN / multi-core cable for sensor connection
+- 4x M3x16mm Screws
+- 4x M3x4mm Heatset Inserts
+- 1x PCB 
 
 
 Others:
