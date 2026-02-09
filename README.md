@@ -40,7 +40,7 @@ Others:
 
 Schematic            |  PCB         |   Sensor Case (Top)   |   Sensor Case (Bottom)
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-![image](PCB/Schematics.png)    |  ![image](PCB/PCB.png)  | ![image](CAD/Separate/sensor_top.png) | ![image](CAD/Separate/Sensor_Bottom.png)
+![image](PCB/Schematics.png)    |  ![image](PCB/PCB.png)  | ![image](CAD/Separate/Sensor_top.png) | ![image](CAD/Separate/Sensor_Bottom.png)
 
 
 ### Notes
