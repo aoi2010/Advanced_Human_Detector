@@ -2439,7 +2439,7 @@
 		)
 		(uuid "4e119e19-d1b2-4f40-abad-501636d093c6")
 	)
-	(label "TX"
+	(label "RX"
 		(at 162.56 64.77 0)
 		(effects
 			(font
@@ -2449,7 +2449,7 @@
 		)
 		(uuid "a24bf40a-26f6-4c25-be24-742964554e3a")
 	)
-	(label "RX"
+	(label "TX"
 		(at 166.37 67.31 0)
 		(effects
 			(font

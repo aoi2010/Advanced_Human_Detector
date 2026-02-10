@@ -2887,7 +2887,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "1-3V3\n2-GND\n3-OT2\n4-TX\n5-RX"
+	(gr_text "1-3V3\n2-GND\n3-OT2\n4-RX\n5-TX"
 		(at 147.6375 88.10625 0)
 		(layer "F.SilkS")
 		(uuid "3a9a5193-7c9f-4bc3-935c-9f852603fd41")
