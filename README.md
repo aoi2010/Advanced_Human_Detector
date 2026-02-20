@@ -11,6 +11,27 @@ I wanted to create a human detector using the Mmwave Sensor to detect humans and
 
 Believe it or not, this was my second time using Fusion 360 and KiCad! I watched numerous tutorials and guides and did a kg of googling, but in the end, I'm pretty proud of the final product. I had the most struggle figuring out how to make sketches, and with the new mouse controls, it definitely took me a while to get the hang of it. Also in KiCad, I had a lot of trouble with footprints and making sure everything was aligned properly and the traces were correct(but it became a litle long traces).
 
+### How To Use This
+- STEP 1: Buy all the things listed in the BOM, a 0.1µf decoupling capacitor(ceramic & and not mentioned in BOM) & print the case for the sensor and also order the PCB(PCB/motionalr_mcu.zip).
+- STEP 2: Solder the 0.1µf decoupling capacitor to the HMMD mmWave Sensor. One leg of it to VCC and another leg to GND.
+- STEP 3: Assemble the PCB.
+- STEP 4: Flash MicroPython to the XIAO and place the main.py in the XIAO.
+- STEP 5: Connect the PCB to the sensor using a LAN Cable(less than 3m) or any twisted Pair Cable(Use the following table as reference).
+
+| Twisted Pair | Use For              |
+| ------------ | -------------------- |
+| Pair 1       | 3.3V + GND           |
+| Pair 2       | TX + GND             |
+| Pair 3       | RX + GND             |
+| Pair 4       | OT2 + GND            |
+
+- STEP 6: Put the sensor in the case and put it outside or where you want it to be placed.(You may put it near your bedroom so that it alerts you when someone is coming or near your fridge if you have siblings.)
+- STEP 7: Put the PCB inside your house while connected to the sensor using a lan cable(length must be less than 3m).
+- STEP 8: Power the XIAO using a USB-C Cable.
+- STEP 9: Sleep peacefully or If you want to test go near it and see how it screams.
+- STEP 10: Do Anything With It.
+Thank You! Also Please give a star to this poor fellow if you like the project. Thank You Again!
+
 ### Specifications
 
 BOM: 
