@@ -1,6 +1,8 @@
 # Advanced Human Detector
 This is a human detector which uses HmmD Mmwave Sensor to detect humans.
 
+![PCB Case](CAD/PCB_CASE.png)
+
 ![Sensor Case](CAD/Sensor_Case.png)
 
 ### Inspiration
@@ -56,17 +58,22 @@ BOM:
 Others:
 - Micropython Firmware
 - PCB Gerber File(PCB/motionalr_mcu.zip)
-- Top and Bottom of Sensor Case STL files for 3d Printing
+- Case STL files for 3d Printing
 - BOM.csv
 
 Schematic            |  PCB         |   Sensor Case (Top)   |   Sensor Case (Bottom)
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 ![image](PCB/Schematics.png)    |  ![image](PCB/PCB.png)  | ![image](CAD/Separate/Sensor_top.png) | ![image](CAD/Separate/Sensor_Bottom.png)
 
+PCB Case (Top)            |  PCB Case (Bottom)
+:-------------------------:|:-------------------------:
+![image](CAD/Separate/PCB_TOP.png)    |  ![image](CAD/Separate/PCB_BOTTOM.png)
+
 
 ### Notes
 The code is still basic in functionality because of lack of information on the sensor datasheet, but I will update it as soon as I get the sensor and debug it's output. The case for the mmwave sensor is measured with approx measurement available online, so I will also update the case design once I get the sensor and measure it myself. The PCB will be left bare as I like looking at PCBs.
 
+Edit: I also made the PCB case but after my project was approved. Thank You for understanding.
 <div align="center">
 
 ## Thanks For Reading! Also leave a star if you like the project! ⭐
